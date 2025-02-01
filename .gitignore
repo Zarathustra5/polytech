@@ -1,0 +1,6 @@
+.venv
+.idea
+*.pdf
+*.docs
+*.7z
+*.zip
